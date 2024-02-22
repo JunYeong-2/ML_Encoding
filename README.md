@@ -10,5 +10,6 @@
 
 ## 의의
 - 다양한 Encoding 기법 시도
-- 모델별 유용한 Encoding 기법 파악, 유형별(binary, low/high cardinality nominal features, low/high cardinality ordinal features ...) 적합한 Encoding 기법 파악
+- 모델별 유용한 Encoding 기법 파악
+- 유형별(binary, low/high cardinality nominal features, low/high cardinality ordinal features ...) 성능이 좋은 Encoding 기법 파악
 
