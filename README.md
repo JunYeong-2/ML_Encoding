@@ -1,5 +1,5 @@
 # Categorical Feature Encoding 실험 및 분석
-: Logistice Regression, Decision Tree, MLP에 10가지 이상의 Categorical Feature Encoding 적용
+: Logistice Regression, Decision Tree, MLP 모델에 10가지 이상의 Categorical Feature Encoding 적용
 
 <br>
 
